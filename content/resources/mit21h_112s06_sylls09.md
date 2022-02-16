@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-112-the-american-revolution-spring-2006/2fadb54d89fa7f5f015a2139a0b1abda_MIT21H_112s06_sylls09.pdf
+file: /media/courses/21h-112-the-american-revolution-spring-2006/2fadb54d89fa7f5f015a2139a0b1abda_MIT21H_112s06_sylls09.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_112s06_sylls09.pdf
 uid: 2fadb54d-89fa-7f5f-015a-2139a0b1abda

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-112-the-american-revolution-spring-2006/50d7b70e4ae47ae2e7b6c7d3c41d132c_MIT21H_112s06_sylls11.pdf
+file: /courses/21h-112-the-american-revolution-spring-2006/50d7b70e4ae47ae2e7b6c7d3c41d132c_MIT21H_112s06_sylls11.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

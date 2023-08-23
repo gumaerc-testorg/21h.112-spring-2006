@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information about course requirements
+  which is consist of attendance and participation, assignments and exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,19 +18,19 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2011, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_sylls11))
+> Spring 2011, Pauline Maier ({{% resource_link 50d7b70e-4ae4-7ae2-e7b6-c7d3c41d132c "PDF" %}})
 > 
-> Spring 2010, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_sylls10))
+> Spring 2010, Pauline Maier ({{% resource_link 5d4552b0-5350-adfe-0766-59e4915e309b "PDF" %}})
 > 
-> Spring 2009, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_sylls09))
+> Spring 2009, Pauline Maier ({{% resource_link 2fadb54d-89fa-7f5f-015a-2139a0b1abda "PDF" %}})
 > 
-> Spring 2007, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_sylls07))
+> Spring 2007, Pauline Maier ({{% resource_link 8807e305-0842-a6b4-19a2-c8f23916a8d9 "PDF" %}})
 > 
-> Spring 2006, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_sylls06))
+> Spring 2006, Pauline Maier ({{% resource_link 654c9502-48b8-7a2a-5e20-c6eca428069f "PDF" %}})
 > 
-> Spring 2005, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_sylls05))
+> Spring 2005, Pauline Maier ({{% resource_link e3033e9a-4417-0f55-e6e1-c6999657429e "PDF" %}})
 > 
-> Fall 2003, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_112s06_syllf03))
+> Fall 2003, Pauline Maier ({{% resource_link 87937940-7bfa-01e5-10df-5420b9ff512f "PDF" %}})
 
 Course Requirements
 -------------------

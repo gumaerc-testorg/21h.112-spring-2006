@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains general guidelines for references in history research
   papers.
 file: /courses/21h-112-the-american-revolution-spring-2006/3d04188a3b08d5cf3f7d2a9f49ea091b_reference_guide.pdf
+file_size: 15273
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -58,7 +58,7 @@ Anderson. _A People's Army._ pp. vii-xi, 3-164, 185-210, and 222-23.
 Background (cont.) and Ideology
 {{< tdclose >}}{{< tdopen >}}
 
-Locke. {{% resource_link "7477ea53-6705-4f33-8120-15faa1de9da9" "_Second Treatise of Government_" %}}_._ Chapters 1-4, 8-13, and 17-19.
+Locke. [_Second Treatise of Government_](http://www.constitution.org/jl/2ndtreat.htm)_._ Chapters 1-4, 8-13, and 17-19.
 
 Maier. _From_ _Resistance to Revolution._ pp. 27- 48.
 
@@ -106,9 +106,9 @@ Wood. _American Revolution._ pp. 47-62.
 
 Maier. _From_ _Resistance to Revolution._ pp. 161-296.
 
-Jefferson, Thomas. "{{% resource_link "8ffbc45e-72fc-484a-b8d8-d3bdb602be40" "Summary View of the Rights of British America" %}}" (1774). In _Tracts of the American Revolution_, pp. 256-76.
+Jefferson, Thomas. "[Summary View of the Rights of British America](http://press-pubs.uchicago.edu/founders/documents/v1ch14s10.html)" (1774). In _Tracts of the American Revolution_, pp. 256-76.
 
-Paine, Thomas. "{{% resource_link "01e28e5d-fea1-4012-bb57-64a0e3db86aa" "Common Sense" %}}." In _Tracts of the American Revolution_, pp. 400-446.
+Paine, Thomas. "[Common Sense](http://press-pubs.uchicago.edu/founders/documents/v1ch4s4.html)." In _Tracts of the American Revolution_, pp. 400-446.
 
 Morison. _Sources and Documents._ pp. 100-115 (Wilson, 1774), 116-25, and 137-48.
 
@@ -168,9 +168,9 @@ Wood. _American Revolution_. pp. 65-70.
 
 Morison. _Sources and Documents_. pp. 148-56, 162-77, and 206-08 (includes the first state constitutions of Virginia and Pennsylvania, both 1776, and the Virginia Statute of Religious Freedom of October 1785).
 
-The {{% resource_link "88ff1554-4a4d-4f20-9236-04540bbe7bf7" "New York constitution of 1777" %}} and the {{% resource_link "51fbd928-9469-40bb-adc8-b02fdc251f3d" "Massachusetts constitution of 1780" %}}.
+The [New York constitution of 1777](http://avalon.law.yale.edu/18th_century/ny01.asp) and the [Massachusetts constitution of 1780](http://www.nhinet.org/ccs/docs/ma-1780.htm).
 
-Adams, John. "{{% resource_link "ddf96cef-eb21-4ad5-9ce8-ef77a61343fc" "Thoughts on Government" %}}." 1776.
+Adams, John. "[Thoughts on Government](http://press-pubs.uchicago.edu/founders/documents/v1ch4s5.html)." 1776.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -188,9 +188,9 @@ Wood. _American Revolution._ pp. 70-74 and 91-150.
 
 Morison. _Sources and Documents._ pp. 178-86, 203-08, and 208-33.
 
-Jefferson, Thomas. "Query XIV." From his {{% resource_link "05cef436-3bb6-4148-b395-3c66de171f68" "_Notes on the State of Virginia_" %}} (written in 1781 and published in 1785). (Scroll down to the part where Jefferson discusses what he proposes to do with Virginia's slave population, and why it couldn't just stay in Virginia.)
+Jefferson, Thomas. "Query XIV." From his [_Notes on the State of Virginia_](http://etext.lib.virginia.edu/toc/modeng/public/JefBv021.html) (written in 1781 and published in 1785). (Scroll down to the part where Jefferson discusses what he proposes to do with Virginia's slave population, and why it couldn't just stay in Virginia.)
 
-Madison, James. "{{% resource_link "a686a13c-3ab5-417e-90a0-4ba54016ddd9" "Vices of the Political System of the United States" %}}." 1787.
+Madison, James. "[Vices of the Political System of the United States](http://press-pubs.uchicago.edu/founders/documents/v1ch5s16.html)." 1787.
 
 Maier, Pauline. "The Revolutionary Origins of the American Corporation." _William and Mary Quarterly_ 50, no. 1 (January, 1993): 51-84. (3rd series.)
 
@@ -208,7 +208,7 @@ Wood. _American Revolution_. pp. 151-58.
 
 Morison. _Sources and Documents_. pp. 233-304.
 
-{{% resource_link "6a6bb577-f6b2-453d-a60b-9ab79eb4de84" "Virginia" %}} and {{% resource_link "346b294e-70e9-431a-841c-b8d7d3a320b6" "New Jersey" %}} plans.
+[Virginia](http://avalon.law.yale.edu/18th_century/vatexta.asp) and [New Jersey](http://press-pubs.uchicago.edu/founders/documents/v1ch8s9.html) plans.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -220,9 +220,9 @@ Wood. _American Revolution_. pp. 158-66.
 
 Morison. _Sources and Documents_. pp. 305-62.
 
-Maidson, James. "{{% resource_link "b1375e60-bbdb-4372-a05f-e55ba710f949" "Federalist Paper No. 10" %}}." 1787.
+Maidson, James. "[Federalist Paper No. 10](http://www.constitution.org/fed/federa10.htm)." 1787.
 
-Mason, George. "{{% resource_link "b07108bc-78fe-49cd-849e-d4d49d0eb06b" "Objections to This Constitution of Government" %}}." October 1787.
+Mason, George. "[Objections to This Constitution of Government](https://www.americanrevolutioninstitute.org/asset/george-mason-objections-to-the-constitution-of-government-formed-by-the-convention-cageorge-mason-objections-to-the-constitution-of-government-formed-by-the-convention/)." October 1787.
 
 "Amendments to the constitution proposed by Massachusetts, South Carolina, New Hampshire, Virginia, and New York." In _Creating the Bill of Rights_. Edited by Helen Veit. Baltimore, MD: Johns Hopkins University Press, 1991, pp. 14-28. ISBN: 9780801841002. _Are these lists impossibly different? Are there any notable common elements?_
 

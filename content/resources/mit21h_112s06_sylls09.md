@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-112-the-american-revolution-spring-2006/2fadb54d89fa7f5f015a2139a0b1abda_MIT21H_112s06_sylls09.pdf
+file_size: 43420
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

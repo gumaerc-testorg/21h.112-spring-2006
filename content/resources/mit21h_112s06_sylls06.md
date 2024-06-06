@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the requirements and reading
   schedule for the course.
 file: /courses/21h-112-the-american-revolution-spring-2006/654c950248b87a2a5e20c6eca428069f_MIT21H_112s06_sylls06.pdf
+file_size: 45225
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

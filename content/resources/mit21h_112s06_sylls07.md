@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about requirements and reading schedule
   for the course.
-file: /ol-ocw-studio-app/courses/21h-112-the-american-revolution-spring-2006/8807e3050842a6b419a2c8f23916a8d9_MIT21H_112s06_sylls07.pdf
+file: /courses/21h-112-the-american-revolution-spring-2006/8807e3050842a6b419a2c8f23916a8d9_MIT21H_112s06_sylls07.pdf
 file_size: 45559
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-112-the-american-revolution-spring-2006/5d4552b05350adfe076659e4915e309b_MIT21H_112S06_syllS10.pdf
+file: /courses/21h-112-the-american-revolution-spring-2006/5d4552b05350adfe076659e4915e309b_MIT21H_112S06_syllS10.pdf
 file_size: 49954
 file_type: application/pdf
 learning_resource_types: []
